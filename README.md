@@ -1,1 +1,3 @@
-"# coding-game-template" 
+# coding-game-template
+
+My coding game template (deprecated)
