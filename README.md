@@ -1,3 +1,12 @@
 # coding-game-template
 
-My coding game template (deprecated)
+My coding game template
+
+# Builder
+
+```shell
+cd builder
+java -jar builder.jar
+```
+
+https://github.com/maximeperez1993/multiple-to-single-source-builder
