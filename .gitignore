@@ -1,4 +1,5 @@
 .idea/
 target/
+arena/logs/
 *.iml
 *.log
