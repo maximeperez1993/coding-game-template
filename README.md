@@ -2,6 +2,14 @@
 
 My coding game template
 
+# Create new project
+
+```shell
+sh create.sh PATH_TO_NEW_PROJECT artifactId
+```
+
+example : sh create.sh ../cg-uttt uttt
+
 # Builder
 
 ```shell
